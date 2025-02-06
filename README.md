@@ -25,7 +25,7 @@ To ensure proper functionality, **browser_use** requires a multi-modal LLM. For 
 ### Installation Steps
 1. **Clone the repository** to your local machine:
    ```sh
-   git clone https://github.com/your-repo/openai-operator-clone.git
+   git clone https://github.com/Haseeb-Akhlaq/openai-operator-clone.git
    cd openai-operator-clone
    ```
 2. **Create a virtual environment:**
