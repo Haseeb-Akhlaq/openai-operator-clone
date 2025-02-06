@@ -4,9 +4,9 @@ This project is a clone of OpenAI’s browser agent **Operator**. It utilizes th
 
 To ensure proper functionality, **browser_use** requires a multi-modal LLM. For this, I am using **Google Gemini 2.0 Flash**, which is a cost-effective alternative to GPT-4o.
 
-## Overview Diagram
+## Architecture of this Project
 
-*(Add your overview diagram here)*
+![Architecture](https://raw.githubusercontent.com/Haseeb-Akhlaq/openai-operator-clone/refs/heads/main/architecture%20diagram.png)
 
 ## Features
 
@@ -78,4 +78,4 @@ voice-assistant/
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
